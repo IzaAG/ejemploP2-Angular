@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ejemploP2-Angular';
+  nombre: string='Izamar';
+  escuela:string='UTL';
 }
